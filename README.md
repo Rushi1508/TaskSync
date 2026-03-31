@@ -1,10 +1,10 @@
 # TaskSync
 
-A fullstack task management app built with React, Node.js, and PostgreSQL.
+A fullstack task management app built with React, TypeScript, Node.js, and PostgreSQL.
 
 ## Stack
 
-- **React** — Frontend UI with responsive layouts
+- **React + TypeScript** — Frontend UI with responsive layouts and type-safe components
 - **Node.js / Express.js** — REST API backend
 - **PostgreSQL** — Relational database with parameterized queries
 - **HTML/CSS** — Semantic markup and styling
